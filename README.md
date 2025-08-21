@@ -1,6 +1,6 @@
 <h3 align="center">
 	<img src="https://github.com/everviolet/.github/raw/main/assets/logo-circle.png" width="100" alt="Logo"/><br/>
-	Evergarden for <a href="https://github.com/everviolet/Aliucord">Aliucord</a>
+	Evergarden for <a href="https://github.com/Aliucord">Aliucord</a>
 </h3>
 
 <p align="center">
@@ -35,11 +35,11 @@
 2. Open the files app and copy the preferred theme file to `Aliucord/themes` in Internal storage
 3. Restart/Open Aliucord and enjoy :)
 
-### Installing via Aliucord #themes channel
+### Installing via Aliucord `#themes` channel
 1. Join the Aliucord server (Settings > Aliucord Support Server)
-2. Go to the #themes channel
-3. Go to the theme that says Evergarden and hold the message and tap on "Install evergarden <your preferred flavor>"
-4. Restart Aliucord and enjoy :) 
+2. Go to the `#themes` channel
+3. Go to the theme that says Evergarden and hold the message and tap on `Install evergarden <your preferred flavor>`
+4. Restart Aliucord and enjoy :)
 
 ### Thanks to <3
 
