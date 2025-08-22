@@ -69,7 +69,7 @@ whiskers:
         "status_grey_160": {{mantle.sint32}},
         "status_grey_100": {{base.sint32}},
         "uikit_btn_bg_color_selector_red": {{red.sint32}},
-        "status_grey_530": {{text.sint32}},
+        "status_grey_530": {{subtext1.sint32}},
         "status_grey_600": {{text.sint32}},
         "status_grey_900": {{text.sint32}},
         "uikit_btn_bg_color_selector_green": {{green.sint32}},
