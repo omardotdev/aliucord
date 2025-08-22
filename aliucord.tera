@@ -33,7 +33,7 @@ whiskers:
         "primary_dark_400": {{surface0.sint32}},
         "brand_new_560": {{surface0.sint32}},
         "white_500": {{text.sint32}},
-        "uikit_settings_item_text_color_dark": {{surface0.sint32}},
+        "uikit_settings_item_text_color_dark": {{subtext1.sint32}},
         "uikit_settings_item_text_color_light": {{blue.sint32}},
         "primary_dark_330": {{subtext0.sint32}},
         "brand_500_alpha_20": {{fadeblue.sint32}},
