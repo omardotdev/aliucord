@@ -46,7 +46,6 @@ whiskers:
         "primary_630": {{crust.sint32}},
         "primary_660": {{surface0.sint32}},
         "dim_foreground_material_light": {{surface0.sint32}},
-        "uikit_settings_item_text_color_dark": {{subtext0.sint32}},
         "status_grey_200": {{subtext1.sint32}}
     },
     {% else %}
@@ -75,7 +74,6 @@ whiskers:
         "status_grey_600": {{text.sint32}},
         "status_grey_900": {{text.sint32}},
         "uikit_btn_bg_color_selector_green": {{red.sint32}},
-        "uikit_settings_item_text_color_dark": {{subtext0.sint32}},
         "brand_500_alpha_20": {{fadeblue.sint32}},
         "brand_new_260": {{snow.sint32}},
         "brand_new": {{snow.sint32}}
