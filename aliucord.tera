@@ -30,7 +30,7 @@ whiskers:
         "primary_dark_360": {{subtext1.sint32}},
         "primary_dark_300": {{text.sint32}},
         "primary_dark_200": {{text.sint32}},
-        "primary_dark_400": {{surface0.sint32}},
+        "primary_dark_400": {{snow.sint32}},
         "brand_new_560": {{surface0.sint32}},
         "white_500": {{text.sint32}},
         "uikit_settings_item_text_color_dark": {{subtext1.sint32}},
@@ -52,7 +52,7 @@ whiskers:
     "colors": {
         "dim_foreground_material_light": {{surface0.sint32}},
         "primary_630": {{crust.sint32}},
-        "primary_dark_400": {{surface0.sint32}},
+        "primary_dark_400": {{snow.sint32}},
         "primary_660": {{surface0.sint32}},
         "primary_dark_360": {{subtext1.sint32}},
         "white_500": {{base.sint32}},
