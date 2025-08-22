@@ -50,7 +50,6 @@ whiskers:
     },
     {% else %}
     "colors": {
-        "status_grey_200": {{subtext1.sint32}},
         "dim_foreground_material_light": {{surface0.sint32}},
         "primary_630": {{crust.sint32}},
         "primary_dark_400": {{surface0.sint32}},
