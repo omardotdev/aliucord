@@ -46,11 +46,11 @@ whiskers:
         "primary_630": {{crust.sint32}},
         "primary_660": {{surface0.sint32}},
         "dim_foreground_material_light": {{surface0.sint32}},
-        "status_grey_200": {{subtext1.sint32}}
+        "status_grey_200": {{subtext1.sint32}},
+        "white_800": {{surface0.sint32}}
     },
     {% else %}
     "colors": {
-        "dim_foreground_material_light": {{surface0.sint32}},
         "primary_630": {{crust.sint32}},
         "primary_dark_400": {{snow.sint32}},
         "primary_660": {{surface0.sint32}},
