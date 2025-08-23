@@ -66,7 +66,7 @@ whiskers:
         "primary_dark_330": {{subtext1.sint32}},
         "status_grey_130": {{base.sint32}},
         "status_grey_200": {{mantle.sint32}},
-        "status_grey_160": {{mantle.sint32}},
+        "status_grey_160": {{crust.sint32}},
         "status_grey_100": {{base.sint32}},
         "uikit_btn_bg_color_selector_red": {{red.sint32}},
         "status_grey_530": {{subtext1.sint32}},
@@ -113,7 +113,12 @@ whiskers:
         "ic_share_white_a60_24dp": {{subtext1.sint32}},
         "ic_visibility_white_24dp": {{subtext1.sint32}},
         "ic_thread_white_24dp": {{subtext1.sint32}},
-        "ic_notifications_settings_white_a60_24dp": {{subtext1.sint32}}
+        "ic_notifications_settings_white_a60_24dp": {{subtext1.sint32}},
+        "ic_hypesquad_house1_32dp": {{purple.sint32}},
+        "ic_hypesquad_house3_32dp": {{snow.sint32}},
+        "ic_hypesquad_house2_32dp": {{orange.sint32}},
+        "ic_ban_red_24dp": {{red.sint32}},
+        "ic_add_friend_plus": {{green.sint32}}
     },
     "fonts": {},
     "raws": {}
