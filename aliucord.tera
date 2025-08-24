@@ -47,7 +47,8 @@ whiskers:
         "primary_660": {{surface0.sint32}},
         "dim_foreground_material_light": {{surface0.sint32}},
         "status_grey_200": {{subtext1.sint32}},
-        "white_800": {{surface0.sint32}}
+        "white_800": {{surface0.sint32}},
+        "primary_dark_900": {{mantle.sint32}}
     },
     {% else %}
     "colors": {
@@ -75,7 +76,8 @@ whiskers:
         "uikit_btn_bg_color_selector_green": {{green.sint32}},
         "brand_500_alpha_20": {{fadeblue.sint32}},
         "brand_new_260": {{snow.sint32}},
-        "brand_new": {{snow.sint32}}
+        "brand_new": {{snow.sint32}},
+        "primary_dark_900": {{mantle.sint32}}
     },
     {% endif %}
     "drawable_tints": {
